@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VARIABLES 
-DIR=/tmp/test_mysql
+DIR=/git/mysql_test
 DBNAME=test_mysql
 DBUSER=user
 DBPASS=password
